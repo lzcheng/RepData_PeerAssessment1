@@ -1,7 +1,7 @@
 
 # Reproducible Research: Peer Assessment 1
-## Author: Lei Cheng
-## Date: 1/20/2019
+### Author: Lei Cheng
+### Date: 1/20/2019
 
 **Commit containing full submission**
 
