@@ -1,7 +1,7 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-author: Lei Cheng
----
+
+# title: "Reproducible Research: Peer Assessment 1"
+# author: Lei Cheng
+
 **Commit containing full submission**
 
 1. Code for reading in the dataset and/or processing the data
