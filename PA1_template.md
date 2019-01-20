@@ -1,10 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
-editor_options: 
-  chunk_output_type: console
+author: Lei Cheng
 ---
 **Commit containing full submission**
 
